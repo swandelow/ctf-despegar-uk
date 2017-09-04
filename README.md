@@ -3,5 +3,5 @@
 Para ver la obtener la solución ejecutar:
 
 ```
-python xor-calculator.py
+$ python xor-calculator.py
 ```
